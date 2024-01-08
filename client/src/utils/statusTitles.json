@@ -1,0 +1,5 @@
+{
+    "1": { "title": "Available", "borderClass": "border-success" },
+    "0": { "title": "Busy", "borderClass": "border-warning" },
+    "-1": { "title": "Unavailable", "borderClass": "border-danger" }
+}

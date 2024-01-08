@@ -1,0 +1,60 @@
+.header {
+  font-family: Saira_Stencil_One;
+}
+
+.admin-panel-wrapper {
+  font-family: Saira_Regular;
+}
+
+.layout-bar {
+  background-color: #696969;
+  color: #E8E8E8;
+  padding: 0.5rem;
+}
+
+.input-description {
+  height: 6rem;
+  resize: none;
+}
+
+.form-button {
+  background-color: #696969;
+  padding: 0.05rem;
+  width: 15.7rem;
+  min-width: 5rem;
+}
+
+.stats-list-item {
+  border: 0;
+  padding: 0;
+  margin-top: 4px;
+  font-size: 1.1em;
+}
+
+.bicycle-list-column {
+  overflow-y: auto;
+  height: 100%;
+}
+
+.bicycle-list-column::-webkit-scrollbar {
+  width: 0;
+}
+
+.row-main-content {
+  flex-grow: 1;
+  height: 50rem;
+}
+
+.input-item {
+  background-color: #E8E8E8;
+}
+
+.auto-pointer-events {
+  pointer-events: auto;
+}
+
+.error-message {
+  color: rgb(194, 0, 0);
+  font-size: smaller;
+  padding-left: 10px;
+}

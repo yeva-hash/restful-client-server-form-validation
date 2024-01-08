@@ -1,0 +1,23 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+@font-face {
+  font-family: 'Saira_Stencil_One';
+  src: url('../public/fonts/SairaStencilOne-Regular.ttf')format('woff2'),
+}
+
+@font-face {
+  font-family: 'Saira_Regular';
+  src: url('../public/fonts/SairaSemiCondensed-Regular.ttf') format('woff');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
